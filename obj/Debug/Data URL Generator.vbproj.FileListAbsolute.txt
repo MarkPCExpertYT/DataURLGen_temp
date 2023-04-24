@@ -1,0 +1,13 @@
+C:\Users\Mark\source\repos\Data URL Generator\bin\Debug\Data URL Generator.exe.config
+C:\Users\Mark\source\repos\Data URL Generator\bin\Debug\Data URL Generator.exe
+C:\Users\Mark\source\repos\Data URL Generator\bin\Debug\Data URL Generator.pdb
+C:\Users\Mark\source\repos\Data URL Generator\bin\Debug\Data URL Generator.xml
+C:\Users\Mark\source\repos\Data URL Generator\obj\Debug\Data URL Generator.vbproj.AssemblyReference.cache
+C:\Users\Mark\source\repos\Data URL Generator\obj\Debug\Data URL Generator.vbproj.SuggestedBindingRedirects.cache
+C:\Users\Mark\source\repos\Data URL Generator\obj\Debug\Data_URL_Generator.Form1.resources
+C:\Users\Mark\source\repos\Data URL Generator\obj\Debug\Data_URL_Generator.Resources.resources
+C:\Users\Mark\source\repos\Data URL Generator\obj\Debug\Data URL Generator.vbproj.GenerateResource.cache
+C:\Users\Mark\source\repos\Data URL Generator\obj\Debug\Data URL Generator.vbproj.CoreCompileInputs.cache
+C:\Users\Mark\source\repos\Data URL Generator\obj\Debug\Data URL Generator.exe
+C:\Users\Mark\source\repos\Data URL Generator\obj\Debug\Data URL Generator.xml
+C:\Users\Mark\source\repos\Data URL Generator\obj\Debug\Data URL Generator.pdb
